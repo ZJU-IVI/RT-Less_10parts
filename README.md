@@ -19,7 +19,7 @@
 
 **CAD Models** : [Ply models](https://drive.google.com/drive/folders/1sJy7qfTYa6ioU8tr-apOozgCTfyIdFKt?usp=sharing)
 
-**Train Image** : [Real images](https://drive.google.com/drive/folders/1XA3DaQJv6Vidyn-TpogF21qk-TMGhTfO?usp=sharing)  [Synthetic images](https://drive.google.com/drive/folders/1pAk4r7SBtnOYTNgEjQmOm2-VnFYiuj_D?usp=sharing)
+**Train Image** : [Real images](https://drive.google.com/drive/folders/1XA3DaQJv6Vidyn-TpogF21qk-TMGhTfO?usp=sharing),  [Synthetic images](https://drive.google.com/drive/folders/1pAk4r7SBtnOYTNgEjQmOm2-VnFYiuj_D?usp=sharing)
 
 **Test Secens**: [Test Scenes](https://drive.google.com/drive/folders/1Yqu6G2XU-XbgtR4TK5TKPV4RkGhF5kSw?usp=sharing)
 
