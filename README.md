@@ -1,5 +1,5 @@
 # Reflective-Metal-Dataset
-
+Dataset in the paper 'ContourPose: Monocular 6D pose estimation method for reflective texture-less metal parts'.
 ## Introduction
 
 * Each training object provides a 3D model, 660 real training images collected and 6,600 synthetic rendered images. 
