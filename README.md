@@ -1,4 +1,4 @@
-# Reflective-Metal-Dataset
+# Reflective Texture-Less dataset (RT-Less_10parts)
 Dataset in the paper 'ContourPose: Monocular 6D pose estimation method for reflective texture-less metal parts'.
 ## Introduction
 
